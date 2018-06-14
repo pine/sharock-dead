@@ -1,7 +1,10 @@
 sharock-dead
 ------------
 
-Shards Rocks is no longer available.
+Shards Rocks is not dead!. Shards Rocks is in maintenance.
 
-I cannot maintenance can not be continued.
+It will be available soon :)
 
+This project is going to be maintained by crystal community.
+
+Please donate to [Crystal Language Project](https://salt.bountysource.com/teams/crystal-lang), help us to be 1.0!
