@@ -1,7 +1,7 @@
 sharock-dead
 ------------
 
-Shards Rocks is not dead!. Shards Rocks is in maintenance.
+Shards Rocks is not dead!. Shards Rocks is ~~in maintenance~~ available again on https://shards.rocks.
 
 It will be available soon :)
 
